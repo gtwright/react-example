@@ -1,7 +1,7 @@
 {
   "name": "react-example",
   "version": "0.1.0",
-  "homepage": "https://www.grahamtwright.com/react-example/",
+  "homepage": "https://www.grahamtwright.com/react-example",
   "private": true,
   "dependencies": {
     "@atlaskit/code": "^14.3.5",
